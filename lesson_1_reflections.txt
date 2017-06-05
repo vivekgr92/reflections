@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It just showed us the places with  *** where there were 
+    differences between the two files.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    This would allow us to go back and restore the working code, if in 
+    case we do some changes in the file. This would be an
+    efficient methid rather than writing the working code
+    from scratch again!
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   Pros: Manual Commit
+   we tend to remember the changes and can logicalyy relate it to the commit
+   Cons: Manual Commit
+   Time Consuming
+
+   Pros: Auto Commit
+   Automatically saves changes ,even minor one
+   which someties we tend to forget.
+   Cons:
+   Various commits are created making it difficult to find the and understand the changes
+   
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    So, that we are able to remmeber and relate to what changes and its effects 
+    are with respect to all the other files too.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log is used for getting a history
+    of all recent commits.
+    git diff is used to compare two different versions of commit
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Since, the previous versions is already stable and working, this 
+    will give us confidence in making more changes and if in the 
+    case it breaks, we can always return back to the old one.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To start using version control to develop my project.
