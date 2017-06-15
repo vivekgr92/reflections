@@ -3,3 +3,12 @@ I would like to use, the remote repository when I want to share the code with ev
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Its because,it gives us more control in what changes should be made on out local branch.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are used when we need to clone the repository which is in github to our github account without the need for cloning it into the local
+system
+Clones are used to copy the repository into the local machine
+branches are used when we want to experiment something like adding a new feature or changing some values, which should not affect the master
+branch
+
+
