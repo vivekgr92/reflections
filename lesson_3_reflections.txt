@@ -11,4 +11,6 @@ Clones are used to copy the repository into the local machine
 branches are used when we want to experiment something like adding a new feature or changing some values, which should not affect the master
 branch
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit of having a copy of the last state known state of the remote stored locally,
+is that we can work on the latest version even when there is no connection to the remote.
